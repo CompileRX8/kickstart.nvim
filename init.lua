@@ -642,8 +642,8 @@ require('lazy').setup({
           },
         },
 
-	jdtls = {
-            require('java').setup()
+        jdtls = {
+          require('java').setup()
         },
       }
 
